@@ -1,6 +1,12 @@
 # NGAspider
 艾泽拉斯国家地理爬虫,nga,spider。爬帖子标题和楼主成分,jieba切关键词,NLP做情感分析。
 更新了结果分析。
+
+YES!!!!
+
+
+
+
 各个分区发帖数的比例饼状图
 ![image](https://user-images.githubusercontent.com/32727299/172158561-2e5cd962-681a-4785-a8d6-d7612b226706.png)
 
