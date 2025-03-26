@@ -7,7 +7,7 @@
 新版本使用百度解语提取实体关键词，更换了NLP情感分析模型 (Natural Language Processing sentiment analysis model)，增加了分析项目。
 
 > 新版本的分析报告尚未更新。
-> 兄弟们，分析报告我懒得更新了，直接去nga的https://nga.178.com/read.php?tid=39620249 自己看吧。
+> 可以直接去nga的https://nga.178.com/read.php?tid=39620249 查看
 > 新版本的源码尚未更新。
 
 ## 数据分析结果
